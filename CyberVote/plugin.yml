@@ -1,0 +1,6 @@
+name: CyberVote
+version: 1.4
+main: mc.cyberplex.CyberVote.Main
+commands:
+  vote:
+    description: CyberVote base command
